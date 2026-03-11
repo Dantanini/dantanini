@@ -65,4 +65,4 @@ Applied these tools to implement large parts of an Android streaming application
 
 ## 📫 Contact
 
-- LinkedIn: https://www.linkedin.com/in/你的帳號
+- LinkedIn: https://www.linkedin.com/in/wang-dante-85458bb9
