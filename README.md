@@ -34,7 +34,7 @@ Purpose:
 Demonstrates how a modular Android streaming application can be structured for maintainability and scalability.
 
 Repository:  
-https://github.com/Dantanini/StreamVault-architecture-demo
+[StreamVault-architecture-demo](https://github.com/Dantanini/StreamVault-architecture-demo)
 
 ---
 
@@ -50,8 +50,8 @@ Tech stack:
 Purpose:  
 Automates engineering workflows and integrates AI coding assistants into development processes.
 
-Repository:  
-https://github.com/Dantanini/AjButlerPublic
+Repository:
+[AjButlerPublic](https://github.com/Dantanini/AjButlerPublic)
 
 ---
 
