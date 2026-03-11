@@ -19,7 +19,9 @@ Telegram Bot + Python + Google Drive integration + VasDolly multi-channel packag
 ### Tech Stack
 
 **Android:** Kotlin, Java, Clean Architecture, MVVM, Hilt, ExoPlayer, Navigation Component
+
 **Automation:** Python, Telegram Bot API, Google Drive API
+
 **Tools:** Cursor, Claude Code, Git
 
 ---
