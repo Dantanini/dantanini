@@ -2,7 +2,7 @@
 
 Senior Android Engineer | 10+ years | Video Streaming & Architecture
 
-Applied AI-assisted development workflows (Cursor, Claude Code) to architect and deliver a production streaming application — designing the system, reviewing all generated code, and making all technical decisions independently.
+Applied AI-driven development workflows (Cursor, Claude Code) to architect and deliver a production streaming application — designing the system, reviewing generated code, and making all technical decisions independently.
 
 ---
 
@@ -18,7 +18,7 @@ Telegram Bot + Python + Google Drive integration + VasDolly multi-channel packag
 
 ### Tech Stack
 
-**Android:** Kotlin, Java, Clean Architecture, MVVM, Hilt, ExoPlayer, Navigation Component
+**Android: Kotlin, Jetpack Compose, Clean Architecture, Hilt, ExoPlayer, Navigation Component
 
 **Automation:** Python, Telegram Bot API, Google Drive API
 
