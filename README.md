@@ -6,7 +6,7 @@ Android Engineer | Independent Product Delivery | AI-Assisted Development & Auto
 
 ### Featured Projects
 
-**[StreamVault](https://github.com/Dantanini/StreamVault-architecture-demo)** — Android app architecture demo
+**[StreamVault](https://github.com/Dantanini/StreamVault-architecture-demo)** — Android streaming architecture demo
 Clean Architecture + Hilt + ExoPlayer (HLS) + Navigation Component + Multi-language support
 
 **[AjButler](https://github.com/Dantanini/AjButlerPublic)** — Automated multi-channel APK packaging pipeline
@@ -15,7 +15,7 @@ Telegram Bot + Python + Google Drive + VasDolly + Task queue
 **[kage](https://github.com/Dantanini/kage)** — Personal AI assistant Telegram bot
 Python + Claude API + Telegram workflow orchestration + persistent memory
 
-**[threads-farm](https://github.com/Dantanini/threads-farm-)** — Taiwan small farmer product search platform
+**[threads-farm](https://github.com/Dantanini/threads-farm)** — Taiwan small farmer product search platform
 Static HTML/JS + GitHub Pages + Google Sheets content workflow + CI validation
 
 ---
